@@ -3,7 +3,7 @@
      下列内容均基于 WPF 框架。你可以在继续之前先尝试自学 XAML 与 WPF 的基础，这能让你更轻松地理解下列内容。
      你也可以使用 Ctrl + F 快速查找。例如，若需要改变文本颜色，则搜索 “颜色” 即可。 -->
 
-<local:MyCard Title="纯文本" Margin="0,0,0,15" CanSwap="False" IsSwaped="True">
+<local:MyCard Title="一句话" Margin="0,0,0,15" CanSwap="False" IsSwaped="True">
 	<StackPanel Margin="25,40,23,15">
         <TextBlock TextWrapping="Wrap" Margin="0,0,0,4"
                     Text="如果你看到了这句话，那你就看到了这句话" />
