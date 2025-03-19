@@ -1,0 +1,12 @@
+<local:MyCard Title="一句话" Margin="0,0,0,15" CanSwap="False" IsSwaped="True">
+	<StackPanel Margin="25,40,23,15">
+        <TextBlock TextWrapping="Wrap" Margin="0,0,0,4"
+                    Text="如果你看到了这句话，那你就看到了这句话" />
+	</StackPanel>
+</local:MyCard>
+<local:MyCard Title="励志文案" Margin="0,0,0,15" CanSwap="False" IsSwaped="True">
+	<StackPanel Margin="25,40,23,15">
+        <TextBlock TextWrapping="Wrap" Margin="0,0,0,4"
+                    Text="初中不努力，以后苦70年；初中努力，从现在就开始苦73年！！！😭😭😭😭😭😭😭😭😭太感动啦呜呜呜呜呜" />
+	</StackPanel>
+</local:MyCard>
